@@ -1,0 +1,792 @@
+{
+    "Black Knights' Fortress": {
+        "price": 0.4,
+        "notes": "",
+        "type": "normal"
+    },
+    "Cook's Assistant": {
+        "price": 0.15,
+        "notes": "0.3 for Ironman",
+        "type": "normal"
+    },
+    "Demon Slayer": {
+        "price": 0.65,
+        "notes": "",
+        "type": "normal"
+    },
+    "Doric's Quest": {
+        "price": 0.15,
+        "notes": "0.3 for ironman",
+        "type": "normal"
+    },
+    "Dragon Slayer": {
+        "price": 1.35,
+        "notes": "150k extra to get items for Ironmans",
+        "type": "normal"
+    },
+    "Ernest the Chicken": {
+        "price": 0.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Goblin Diplomacy": {
+        "price": 0.2,
+        "notes": "",
+        "type": "normal"
+    },
+    "Imp Catcher": {
+        "price": 0.2,
+        "notes": "400k extra to get items for Ironman",
+        "type": "normal"
+    },
+    "Misthalin Mystery": {
+        "price": 0.45,
+        "notes": "",
+        "type": "normal"
+    },
+    "Pirate's Treasure": {
+        "price": 0.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Prince Ali Rescue": {
+        "price": 0.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Romeo & Juliet": {
+        "price": 0.25,
+        "notes": "",
+        "type": "normal"
+    },
+    "Rune Mysteries": {
+        "price": 0.2,
+        "notes": "",
+        "type": "normal"
+    },
+    "Sheep Shearer": {
+        "price": 0.15,
+        "notes": "",
+        "type": "normal"
+    },
+    "Shield of Arrav": {
+        "price": 0.75,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Corsair Curse": {
+        "price": 0.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Knight's Sword": {
+        "price": 0.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Restless Ghost": {
+        "price": 0.2,
+        "notes": "",
+        "type": "normal"
+    },
+    "Vampire Slayer": {
+        "price": 0.3,
+        "notes": "",
+        "type": "normal"
+    },
+    "Witch's Potion": {
+        "price": 0.2,
+        "notes": "",
+        "type": "normal"
+    },
+    "X Marks the Spot": {
+        "price": 0.35,
+        "notes": "",
+        "type": "normal"
+    },
+    "A Soul's Bane": {
+        "price": 1.3,
+        "notes": "",
+        "type": "normal"
+    },
+    "A Tail of Two Cats": {
+        "price": 1.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "Taste of Hope": {
+        "price": 3.4,
+        "notes": "",
+        "type": "normal"
+    },
+    "Animal Magnetism": {
+        "price": 1.25,
+        "notes": "",
+        "type": "normal"
+    },
+    "Animal Magnetism + Tokens": {
+        "price": 1.25,
+        "notes": "",
+        "type": "normal"
+    },
+    "Another Slice of H.A.M.": {
+        "price": 1.25,
+        "notes": "",
+        "type": "normal"
+    },
+    "Between a Rock...": {
+        "price": 1.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Big Chompy Bird Hunting": {
+        "price": 0.9,
+        "notes": "",
+        "type": "normal"
+    },
+    "Biohazard": {
+        "price": 0.75,
+        "notes": "",
+        "type": "normal"
+    },
+    "Bone Voyage": {
+        "price": 1.25,
+        "notes": "",
+        "type": "normal"
+    },
+    "Cabin Fever": {
+        "price": 1.8,
+        "notes": "",
+        "type": "normal"
+    },
+    "Client of Kourend": {
+        "price": 1,
+        "notes": "",
+        "type": "normal"
+    },
+    "Clock Tower": {
+        "price": 0.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "Cold War": {
+        "price": 2,
+        "notes": "",
+        "type": "normal"
+    },
+    "Contact!": {
+        "price": 2.25,
+        "notes": "",
+        "type": "normal"
+    },
+    "Creature of Fenkenstrain": {
+        "price": 1.25,
+        "notes": "",
+        "type": "normal"
+    },
+    "Darkness of Hallowvale": {
+        "price": 4,
+        "notes": "",
+        "type": "normal"
+    },
+    "Death Plateau": {
+        "price": 0.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Death to the Dorgeshuun": {
+        "price": 0.9,
+        "notes": "",
+        "type": "normal"
+    },
+    "Desert Treasure": {
+        "notes": "1 Prayer",
+        "price": 7,
+        "type": "normal"
+    },
+    "Desert Treasure": {
+        "notes": "43+ Prayer",
+        "price": 4.25,
+        "type": "normal"
+    },
+    "Devious Minds": {
+        "price": 1.75,
+        "notes": "",
+        "type": "normal"
+    },
+    "Dragon Slayer 2": {
+        "price": 15,
+        "notes": "",
+        "type": "normal"
+    },
+    "Dream Mentor": {
+        "price": 1.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Druidic Ritual": {
+        "price": 0.2,
+        "notes": "",
+        "type": "normal"
+    },
+    "Dwarf Cannon": {
+        "price": 0.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Eadgar's Ruse": {
+        "price": 1.3,
+        "notes": "",
+        "type": "normal"
+    },
+    "Eagles' Peak": {
+        "price": 0.75,
+        "notes": "",
+        "type": "normal"
+    },
+    "Elemental Workshop 1": {
+        "price": 0.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Elemental Workshop 2": {
+        "price": 0.9,
+        "notes": "",
+        "type": "normal"
+    },
+    "Enakhra's Lament": {
+        "price": 1.25,
+        "notes": "",
+        "type": "normal"
+    },
+    "Enlightened Journey": {
+        "price": 1.1,
+        "notes": "",
+        "type": "normal"
+    },
+    "Fairytale 1 - Growing Pains": {
+        "price": 1.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "Fairytale 2 - Cure a Queen": {
+        "price": 1.4,
+        "notes": "",
+        "type": "normal"
+    },
+    "Family Crest": {
+        "price": 0.75,
+        "notes": "",
+        "type": "normal"
+    },
+    "Fight Arena": {
+        "price": 0.4,
+        "notes": "",
+        "type": "normal"
+    },
+    "Fishing Contest": {
+        "price": 0.4,
+        "notes": "",
+        "type": "normal"
+    },
+    "Forgettable Tale...": {
+        "price": 2.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Garden of Tranquillity": {
+        "price": 2.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Gertrude's Cat": {
+        "price": 0.35,
+        "notes": "",
+        "type": "normal"
+    },
+    "Ghosts Ahoy": {
+        "price": 1.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Ghosts Ahoy + Tokens": {
+        "price": 1.4,
+        "notes": "",
+        "type": "normal"
+    },
+    "Grim Tales": {
+        "price": 1.75,
+        "notes": "",
+        "type": "normal"
+    },
+    "Haunted Mine": {
+        "price": 2.25,
+        "notes": "3M if combat stats lower then 50 (Minimum 40)",
+        "type": "normal"
+    },
+    "Hazeel Cult": {
+        "price": 0.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Heroes' Quest": {
+        "price": 2.25,
+        "notes": "",
+        "type": "normal"
+    },
+    "Holy Grail": {
+        "price": 1,
+        "notes": "",
+        "type": "normal"
+    },
+    "Horror from the Deep": {
+        "price": 1,
+        "notes": "1.5m if low stats lower then 50 (Minimum 40)",
+        "type": "normal"
+    },
+    "Icthlarin's Little Helper": {
+        "price": 1.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "In Aid of the Myreque": {
+        "price": 2.25,
+        "notes": "",
+        "type": "normal"
+    },
+    "In Search of the Myreque": {
+        "price": 1.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "Jungle Potion": {
+        "price": 0.45,
+        "notes": "",
+        "type": "normal"
+    },
+    "King's Ransom": {
+        "price": 1.6,
+        "notes": "Minigame is 1.2M",
+        "type": "normal"
+    },
+    "Legends' Quest": {
+        "price": 3.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "Lost City": {
+        "price": 0.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Lunar Diplomacy": {
+        "price": 2.75,
+        "notes": "",
+        "type": "normal"
+    },
+    "Making Friends with My Arm": {
+        "price": 2.25,
+        "notes": "",
+        "type": "normal"
+    },
+    "Making History": {
+        "price": 0.7,
+        "notes": "",
+        "type": "normal"
+    },
+    "Merlin's Crystal": {
+        "price": 0.7,
+        "notes": "",
+        "type": "normal"
+    },
+    "Monk's Friend": {
+        "price": 0.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Monkey Madness 1": {
+        "notes": "1- Prayer",
+        "price": 7,
+        "type": "normal"
+    },
+    "Monkey Madness 1": {
+        "notes": "43+ Prayer",
+        "price": 4,
+        "type": "normal"
+    },
+    "Monkey Madness 2": {
+        "notes": " (High Combat required)",
+        "price": 15,
+        "type": "normal"
+    },
+    "Mountain Daughter": {
+        "price": 1.25,
+        "notes": "",
+        "type": "normal"
+    },
+    "Mourning's Ends Part 1": {
+        "price": 3,
+        "notes": "",
+        "type": "normal"
+    },
+    "Mourning's Ends Part 2": {
+        "notes": " 70 Agil +",
+        "price": 5,
+        "type": "normal"
+    },
+    "Murder Mystery": {
+        "price": 0.55,
+        "notes": "",
+        "type": "normal"
+    },
+    "My Arm's Big Adventure": {
+        "price": 2.15,
+        "notes": "",
+        "type": "normal"
+    },
+    "Nature Spirit": {
+        "price": 0.85,
+        "notes": "",
+        "type": "normal"
+    },
+    "Observatory Quest": {
+        "price": 0.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Olaf's Quest": {
+        "price": 1.25,
+        "notes": "",
+        "type": "normal"
+    },
+    "One Small Favour": {
+        "price": 3.75,
+        "notes": "",
+        "type": "normal"
+    },
+    "Plague City": {
+        "price": 0.55,
+        "notes": "",
+        "type": "normal"
+    },
+    "Priest in Peril": {
+        "price": 0.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "Rag and Bone Man": {
+        "price": 1.15,
+        "notes": "",
+        "type": "normal"
+    },
+    "Rag and Bone Man 2": {
+        "price": 4.75,
+        "notes": "",
+        "type": "normal"
+    },
+    "Ratcatchers": {
+        "notes": " (Cat)",
+        "price": 2.5,
+        "type": "normal"
+    },
+    "Recipe for Disaster Everything": {
+        "price": 7,
+        "notes": "",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Another Cook's Quest": {
+        "price": 0.3,
+        "notes": "",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Defeating the Culinaromancer": {
+        "price": 1,
+        "notes": "",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Freeing Evil Dave": {
+        "notes": "Cat is 1.5 kitten is 3M",
+        "price": 1.5,
+        "type": "normal"
+    },
+    "Recipe for Disaster/Freeing King Awowogei": {
+        "price": 1.75,
+        "notes": "",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Freeing Pirate Pete": {
+        "price": 0.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Freeing Sir Amik Varze": {
+        "price": 1.25,
+        "notes": "",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Freeing Skrach Uglogwee": {
+        "price": 1.25,
+        "notes": "",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Freeing the Goblin generals": {
+        "price": 0.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Freeing the Lumbridge Guide": {
+        "price": 0.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Recipe for Disaster/Freeing the Mountain Dwarf": {
+        "price": 0.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "Recruitment Drive": {
+        "price": 0.75,
+        "notes": "",
+        "type": "normal"
+    },
+    "Regicide": {
+        "notes": " 60+ Agil",
+        "price": 3.25,
+        "type": "normal"
+    },
+    "Roving Elves": {
+        "price": 1,
+        "notes": "",
+        "type": "normal"
+    },
+    "Royal Trouble": {
+        "price": 1.15,
+        "notes": "",
+        "type": "normal"
+    },
+    "Rum Deal": {
+        "price": 1,
+        "notes": "",
+        "type": "normal"
+    },
+    "Scorpion Catcher": {
+        "price": 0.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Sea Slug": {
+        "price": 0.45,
+        "notes": "",
+        "type": "normal"
+    },
+    "Shades of Mort'ton": {
+        "price": 1.85,
+        "notes": "",
+        "type": "normal"
+    },
+    "Shadow of the Storm": {
+        "price": 1.1,
+        "notes": "",
+        "type": "normal"
+    },
+    "Sheep Herder": {
+        "price": 0.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "Shilo Village": {
+        "price": 1.4,
+        "notes": "",
+        "type": "normal"
+    },
+    "Spirits of the Elid": {
+        "price": 1.1,
+        "notes": "",
+        "type": "normal"
+    },
+    "Swan Song": {
+        "price": 1.8,
+        "notes": "",
+        "type": "normal"
+    },
+    "Song of the elves": {
+        "price": 20,
+        "notes": "",
+        "type": "normal"
+    },
+    "Tai Bwo Wannai Trio": {
+        "price": 1.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "Tale of the Righteous": {
+        "price": 1.25,
+        "notes": "",
+        "type": "normal"
+    },
+    "Tears of Guthix": {
+        "price": 0.4,
+        "notes": "",
+        "type": "normal"
+    },
+    "Temple of Ikov": {
+        "price": 1,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Ascent of Arceuus": {
+        "price": 1,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Depths of Despair": {
+        "price": 0.7,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Dig Site": {
+        "price": 1.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Eyes of Glouphrie": {
+        "price": 1.9,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Feud": {
+        "price": 1.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Forsaken Tower": {
+        "price": 1.25,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Fremennik Isles": {
+        "price": 2.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Fremennik Trials": {
+        "price": 2,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Fremennik Exiles": {
+        "price": 3,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Giant Dwarf": {
+        "price": 1.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Golem": {
+        "price": 0.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Grand Tree": {
+        "price": 0.7,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Great Brain Robbery": {
+        "price": 1.4,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Hand in the Sand": {
+        "price": 1.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Lost Tribe": {
+        "price": 0.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Queen of Thieves": {
+        "price": 0.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Slug Menace": {
+        "price": 1.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "The Tourist Trap": {
+        "price": 1.25,
+        "notes": "",
+        "type": "normal"
+    },
+    "Throne of Miscellania": {
+        "price": 1.3,
+        "notes": "",
+        "type": "normal"
+    },
+    "Tower of Life": {
+        "price": 1,
+        "notes": "",
+        "type": "normal"
+    },
+    "Tree Gnome Village": {
+        "price": 0.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Tribal Totem": {
+        "price": 0.75,
+        "notes": "",
+        "type": "normal"
+    },
+    "Troll Romance": {
+        "price": 1,
+        "notes": "",
+        "type": "normal"
+    },
+    "Troll Stronghold": {
+        "price": 0.9,
+        "notes": "",
+        "type": "normal"
+    },
+    "Underground Pass": {
+        "notes": "( 60 + Agil ) 4m if <60 agility",
+        "price": 3,
+        "type": "normal"
+    },
+    "Wanted!": {
+        "price": 1.5,
+        "notes": "",
+        "type": "normal"
+    },
+    "Watchtower": {
+        "price": 2,
+        "notes": "",
+        "type": "normal"
+    },
+    "Waterfall Quest": {
+        "price": 1.2,
+        "notes": "",
+        "type": "normal"
+    },
+    "What Lies Below": {
+        "price": 1,
+        "notes": "",
+        "type": "normal"
+    },
+    "Witch's House": {
+        "price": 0.6,
+        "notes": "",
+        "type": "normal"
+    },
+    "Zogre Flesh Eaters": {
+        "price": 1.5,
+        "notes": "",
+        "type": "normal"
+    }
+}
