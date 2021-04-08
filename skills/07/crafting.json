@@ -1,0 +1,36 @@
+{
+
+    "skill" : "Crafting",
+
+    "image" : "https://i.imgur.com/rQIKHyi.png",
+    "checkpoints" : [
+        54,
+        84
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 54,
+            "gp/xp" : 55,
+            "notes" : "Hides + Juwelry"
+        },
+        {
+            "start_level" : 33,
+            "end_level" : 99,
+            "gp/xp" : 25,
+            "notes" : "Uncut Rubies"
+        },
+        {
+            "start_level" : 54,
+            "end_level" : 99,
+            "gp/xp" : 20,
+            "notes" : "Battlestaves"
+        },
+        {
+            "start_level" : 57,
+            "end_level" : 99,
+            "gp/xp" : 15,
+            "notes" : "d'hide bodies"
+        }
+
+    ]
+}

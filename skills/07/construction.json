@@ -1,0 +1,34 @@
+{
+    "skill" : "Construction",
+    "image" :  "https://i.imgur.com/XRTvQ9j.png",
+    "checkpoints" : [
+        33,
+        52,
+        73
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 52,
+            "gp/xp" : 60,
+            "notes" : "Normal and oak planks"
+        },
+        {
+            "start_level" : 52,
+            "end_level" : 99,
+            "gp/xp" : 20,
+            "notes" : "Oak planks"
+        },
+        {
+            "start_level" : 52,
+            "end_level" : 99,
+            "gp/xp" : 15,
+            "notes" : "Teak planks"
+        },
+        {
+            "start_level" : 52,
+            "end_level" : 99,
+            "gp/xp" : 12,
+            "notes" : "Mahogany planks"
+        }
+    ]
+}

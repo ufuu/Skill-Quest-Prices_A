@@ -1,0 +1,30 @@
+{
+    "skill" : "Mining",
+    "image" : "https://i.imgur.com/r9nMmpC.png",
+    "checkpoints" : [
+        31,
+        60,
+        72
+
+    ],
+    "prices" : [
+        {   "id" : 1,
+            "start_level" : 1,
+            "end_level" : 41,
+            "gp/xp" : 100,
+            "notes" : "Power mining"
+        },
+        {
+            "start_level" : 41,
+            "end_level" : 99,
+            "gp/xp" : 75,
+            "notes" : "Power mining"
+	},
+        {
+            "start_level" : 31,
+            "end_level" : 99,
+            "gp/xp" : 50,
+            "notes" : "Motherload mine"
+	}
+    ]
+}

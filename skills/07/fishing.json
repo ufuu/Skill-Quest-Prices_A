@@ -1,0 +1,28 @@
+{
+    "skill" : "Fishing",
+    "image" : "https://i.imgur.com/TPMEHHu.png",
+    "checkpoints" : [
+        48,
+        70
+
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 58,
+            "gp/xp" : 45,
+            "notes" : ""
+        },
+        {
+            "start_level" : 58,
+            "end_level" : 70,
+            "gp/xp" : 35,
+            "notes" : ""
+        },
+        {
+            "start_level" : 70,
+            "end_level" : 99,
+            "gp/xp" : 25,
+            "notes" : ""
+        }
+    ]
+}

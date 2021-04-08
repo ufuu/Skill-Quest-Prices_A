@@ -1,0 +1,29 @@
+{
+    "skill" : "Hunter",
+    "image" : "https://i.imgur.com/614axVs.png",
+    "checkpoints" : [
+        47,
+        73
+
+    ],
+    "prices" : [
+        {
+            "start_level" : 1,
+            "end_level" : 47,
+            "gp/xp" : 80,
+            "notes" : "Any Type"
+        },
+        {
+            "start_level" : 47,
+            "end_level" : 73,
+            "gp/xp" : 55,
+            "notes" : "Red Salamander"
+        },
+        {
+            "start_level" : 73,
+            "end_level" : 99,
+            "gp/xp" : 30,
+            "notes" : "Black Salamanders"
+        }
+    ]
+}

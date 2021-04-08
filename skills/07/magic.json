@@ -1,0 +1,45 @@
+{
+    "skill" : "Magic",
+    "image" : "https://i.imgur.com/hVayZw7.png",
+    "checkpoints" : [
+        55,
+        70
+    ],
+    "prices" : [
+        {   "id" : 1,
+            "start_level" : 1,
+            "end_level" : 99,
+            "gp/xp" : 34,
+            "notes" : "Splashing using best spells.",
+            "text" : "1 - 99 magic",
+            "num_group" : 0
+        },
+        {
+            "id" : 3,
+            "start_level" : 55,
+            "end_level" : 99,
+            "gp/xp" : 67,
+            "notes" : "High Alchemy - 55 - 99",
+            "text" : "55 - 99 magic",
+            "num_group" : 1
+        },
+        {
+            "id" : 5,
+            "start_level" : 70,
+            "end_level" : 99,
+            "gp/xp" : 18,
+            "notes" : "Bursting/Barraging - MM1 Tunnels (Requires Monkey Madness 1)",
+            "text" : "70 - 99 magic",
+            "num_group" : 2
+        },
+        {
+            "id" : 6,
+            "start_level" : 70,
+            "end_level" : 99,
+            "gp/xp" : 14,
+            "notes" : "Bursting/Barraging - MM2 Tunnels (Requires Monkey Madness 2)",
+            "text" : "70 - 99 magic",
+            "num_group" : 3
+        }
+    ]
+}

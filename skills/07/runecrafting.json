@@ -1,0 +1,28 @@
+{
+    "skill" : "Runecrafting",
+    "image" : "https://i.imgur.com/fSiFxKY.png",
+    "checkpoints" : [
+        23,
+        50,
+        77
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 99,
+            "gp/xp" : 125,
+            "notes" : "ZMI"
+        },
+        {
+            "start_level" : 23,
+            "end_level" : 99,
+            "gp/xp" : 100,
+            "notes" : "Lava Runes"
+        },
+        {
+            "start_level" : 77,
+            "end_level" : 99,
+            "gp/xp" : 45,
+            "notes" : "Zeah"
+        }
+    ]
+}

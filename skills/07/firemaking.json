@@ -1,0 +1,26 @@
+{
+    "skill" : "Firemaking",
+    "image" : "https://imgur.com/suLl6Gz.png",
+    "checkpoints" : [
+        50
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 50,
+            "gp/xp" : 60,
+            "notes" : "Burning logs"
+        },
+        {
+            "start_level" : 45,
+            "end_level" : 99,
+            "gp/xp" : 25,
+            "notes" : "Burning Logs"
+        },
+        {
+            "start_level" : 50,
+            "end_level" : 99,
+            "gp/xp" : 15,
+            "notes" : "wintertodt"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "skill" : "Thieving",
+    "image" : "https://i.imgur.com/j9jtXRt.png",
+    "checkpoints" : [
+        55
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 55,
+            "gp/xp" : 110,
+            "notes" : "Pickpocketing and thieving stalls"
+        },
+        {
+            "start_level" : 55,
+            "end_level" : 99,
+            "gp/xp" : 40,
+            "notes" : "Blackjacking"
+        },
+        {
+            "start_level" : 80,
+            "end_level" : 99,
+            "gp/xp" : 30,
+            "notes" : "Blackjacking"
+        }
+    ]
+}

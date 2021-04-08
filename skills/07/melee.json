@@ -1,0 +1,27 @@
+{
+    "skill" : "Melee",
+    "image" : "https://i.imgur.com/IWr7LYS.png",
+    "checkpoints" : [
+        70
+    ],
+    "prices" : [
+        {
+            "start_level" : 1,
+             "end_level" : 99,
+             "gp/xp" : 22,
+             "notes" : "Sand crabs"
+        },
+        {
+            "start_level" : 70,
+             "end_level" : 99,
+             "gp/xp" : 8,
+             "notes" : "NMZ with Prayer"
+        },
+        {
+           "start_level" : 70,
+            "end_level" : 99,
+            "gp/xp" : 12,
+            "notes" : "NMZ Absorb"
+        }
+    ]
+}

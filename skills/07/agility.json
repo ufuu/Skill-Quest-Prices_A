@@ -1,0 +1,25 @@
+{
+    "skill" : "Agility",
+    "image" : "https://i.imgur.com/zflukPp.png",
+    "checkpoints" : [
+        60,
+        90
+    ],
+    "prices" : [
+        {   "start_level" : 1,
+            "end_level" : 40,
+            "gp/xp" : 150,
+            "notes" : "10-40 "
+        },
+        {   "start_level" : 40,
+            "end_level" : 60,
+            "gp/xp" : 110,
+            "notes" : ""
+        },
+        {   "start_level" : 60,
+            "end_level" : 99,
+            "gp/xp" : 90,
+            "notes" : "Rooftops"
+        }
+    ]
+}
