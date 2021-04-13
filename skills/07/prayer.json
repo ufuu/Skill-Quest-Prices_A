@@ -6,14 +6,14 @@
     ],
     "prices" : [
         {   "start_level" : 1,
-            "end_level" : 99,
-            "gp/xp" : 14,
-            "notes" : "Dragon bones"
+            "end_level" : 70,
+            "gp/xp" : 15,
+            "notes" : ""
         },
         {   "start_level" : 70,
             "end_level" : 99,
             "gp/xp" : 10,
-            "notes" : "Superior Dragon Bones"
+            "notes" : ""
         }
     ]
 }
