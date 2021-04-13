@@ -7,19 +7,24 @@
     ],
     "prices" : [
         {   "start_level" : 1,
-            "end_level" : 40,
-            "gp/xp" : 150,
-            "notes" : "10-40 "
-        },
-        {   "start_level" : 40,
             "end_level" : 60,
-            "gp/xp" : 110,
+            "gp/xp" : 75,
             "notes" : ""
         },
         {   "start_level" : 60,
+            "end_level" : 90,
+            "gp/xp" : 45,
+            "notes" : ""
+        },
+        {   "start_level" : 48,
+            "end_level" : 90,
+            "gp/xp" : 45,
+            "notes" : "Wilderness"
+        }
+        {   "start_level" : 90,
             "end_level" : 99,
-            "gp/xp" : 90,
-            "notes" : "Rooftops"
+            "gp/xp" : 33,
+            "notes" : "Ardougne"
         }
     ]
 }
