@@ -7,26 +7,14 @@
     "prices" : [
         {   "start_level" : 1,
             "end_level" : 50,
-            "gp/xp" : 150,
-            "notes" : "With Cannon"
-        },
-        {
-            "start_level" : 1,
-            "end_level" : 50,
-            "gp/xp" : 250,
-            "notes" : "Without Cannon"
+            "gp/xp" : 140,
+            "notes" : ""
         },
         {
             "start_level" : 50,
             "end_level" : 99,
-            "gp/xp" : 80,
-            "notes" : "Burst/Cannon"
-        },
-        {
-            "start_level" : 50,
-            "end_level" : 99,
-            "gp/xp" : 100,
-            "notes" : "No Burst/Cannon"
+            "gp/xp" : 110,
+            "notes" : ""
         }
     ]
 }
