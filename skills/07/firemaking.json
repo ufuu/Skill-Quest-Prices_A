@@ -6,21 +6,21 @@
     ],
     "prices" : [
         {   "start_level" : 1,
-            "end_level" : 50,
-            "gp/xp" : 60,
-            "notes" : "Burning logs"
+            "end_level" : 60,
+            "gp/xp" : 40,
+            "notes" : ""
         },
         {
-            "start_level" : 45,
+            "start_level" : 60,
             "end_level" : 99,
-            "gp/xp" : 25,
-            "notes" : "Burning Logs"
+            "gp/xp" : 10,
+            "notes" : ""
         },
         {
             "start_level" : 50,
             "end_level" : 99,
-            "gp/xp" : 15,
-            "notes" : "wintertodt"
+            "gp/xp" : 200,000,
+            "notes" : "wintertodt crate"
         }
     ]
 }
