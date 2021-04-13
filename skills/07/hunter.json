@@ -9,21 +9,33 @@
     "prices" : [
         {
             "start_level" : 1,
-            "end_level" : 47,
+            "end_level" : 29,
             "gp/xp" : 80,
-            "notes" : "Any Type"
+            "notes" : ""
         },
         {
-            "start_level" : 47,
-            "end_level" : 73,
-            "gp/xp" : 55,
-            "notes" : "Red Salamander"
+            "start_level" : 29,
+            "end_level" : 60,
+            "gp/xp" : 70,
+            "notes" : "Salamander"
         },
         {
-            "start_level" : 73,
-            "end_level" : 99,
+            "start_level" : 60,
+            "end_level" : 80,
             "gp/xp" : 30,
-            "notes" : "Black Salamanders"
+            "notes" : "Salamanders"
+        },
+        {
+            "start_level" : 63,
+            "end_level" : 80,
+            "gp/xp" : 35,
+            "notes" : "Chins"
+        },
+        {
+            "start_level" : 80,
+            "end_level" : 99,
+            "gp/xp" : 28,
+            "notes" : "Chins"
         }
     ]
 }
