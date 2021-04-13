@@ -7,20 +7,20 @@
     "prices" : [
         {   "start_level" : 1,
             "end_level" : 55,
-            "gp/xp" : 110,
-            "notes" : "Pickpocketing and thieving stalls"
+            "gp/xp" : 50,
+            "notes" : ""
         },
         {
             "start_level" : 55,
-            "end_level" : 99,
-            "gp/xp" : 40,
-            "notes" : "Blackjacking"
+            "end_level" : 80,
+            "gp/xp" : 33,
+            "notes" : ""
         },
         {
             "start_level" : 80,
             "end_level" : 99,
-            "gp/xp" : 30,
-            "notes" : "Blackjacking"
+            "gp/xp" : 18,
+            "notes" : ""
         }
     ]
 }
