@@ -7,20 +7,20 @@
     ],
     "prices" : [
         {   "start_level" : 1,
-            "end_level" : 41,
-            "gp/xp" : 70,
-            "notes" : "."
-        },
-        {
-            "start_level" : 41,
-            "end_level" : 61,
-            "gp/xp" : 35,
+            "end_level" : 35,
+            "gp/xp" : 45,
             "notes" : ""
         },
         {
-            "start_level" : 61,
+            "start_level" : 35,
+            "end_level" : 90,
+            "gp/xp" : 25,
+            "notes" : ""
+        },
+        {
+            "start_level" : 90,
             "end_level" : 99,
-            "gp/xp" : 30,
+            "gp/xp" : 8,
             "notes" : ""
         }
     ]
