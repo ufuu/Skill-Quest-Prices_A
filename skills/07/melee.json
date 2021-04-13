@@ -7,21 +7,27 @@
     "prices" : [
         {
             "start_level" : 1,
-             "end_level" : 99,
-             "gp/xp" : 22,
+             "end_level" : 50,
+             "gp/xp" : 40,
              "notes" : "Sand crabs"
         },
         {
-            "start_level" : 70,
+            "start_level" : 50,
              "end_level" : 99,
-             "gp/xp" : 8,
-             "notes" : "NMZ with Prayer"
+             "gp/xp" : 16,
+             "notes" : "Sand crabs"
         },
         {
-           "start_level" : 70,
+            "start_level" : 60,
+             "end_level" : 90,
+             "gp/xp" : 18,
+             "notes" : "NMZ"
+        },
+        {
+           "start_level" : 90,
             "end_level" : 99,
             "gp/xp" : 12,
-            "notes" : "NMZ Absorb"
+            "notes" : "NMZ"
         }
     ]
 }
