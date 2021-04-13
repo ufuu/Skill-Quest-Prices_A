@@ -12,41 +12,29 @@
     "prices" : [
         {   "start_level" : 1,
             "end_level" : 45,
-            "gp/xp" : 90,
-            "notes" : "Trees"
+            "gp/xp" : 55,
+            "notes" : ""
         },
         {   "start_level" : 45,
-            "end_level" : 60,
-            "gp/xp" : 35,
-            "notes" : "Trees"
-        },
-        {   "start_level" : 60,
-            "end_level" : 75,
-            "gp/xp" : 20,
-            "notes" : "Trees"
-        },
-        {
-            "start_level" : 75,
             "end_level" : 99,
-            "gp/xp" : 50,
-            "notes" : "Trees"
+            "gp/xp" : 30,
+            "notes" : ""
         },
-        {
-            "start_level" : 34,
-            "end_level" : 54,
-            "gp/xp" : 105,
-            "notes" : "Tithe Farm"
+        {   "start_level" : 34,
+            "end_level" : 99,
+            "gp/xp" : 160,
+            "notes" : "Tithe"
         },
         {
             "start_level" : 54,
-            "end_level" : 74,
-            "gp/xp" : 45,
-            "notes" : "Tithe Farm"
-	},
-    {
+            "end_level" : 99,
+            "gp/xp" : 66,
+            "notes" : "Tithe"
+        },
+        {
             "start_level" : 74,
             "end_level" : 99,
-            "gp/xp" : 30,
+            "gp/xp" : 45,
             "notes" : "Tithe Farm"
 	}
     ]
