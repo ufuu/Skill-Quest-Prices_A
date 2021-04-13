@@ -275,17 +275,32 @@
         "type": "normal"
     },
     "Enlightened Journey": {
-        "price": 1.1,
+        "price": 2.0,
         "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
         "type": "normal"
     },
+    "Enlightened Journey": {
+        "price": 1.0,
+        "notes": "1 Unlock / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Enlightened Journey": {
+        "price": 3.0,
+        "notes": "All Unlocks / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
     "Fairytale 1 - Growing Pains": {
-        "price": 1.5,
+        "price": 2.5,
         "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
         "type": "normal"
     },
     "Fairytale 2 - Cure a Queen": {
-        "price": 1.4,
+        "price": 1.0,
+        "notes": "Fairy rings unlock / 10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
+        "type": "normal"
+    },
+    "Fairytale 2 - Cure a Queen": {
+        "price": 3.0,
         "notes": "10% Standard Fee / 45% Gathering Fee - missing Stamina potions, Quest Items",
         "type": "normal"
     },
