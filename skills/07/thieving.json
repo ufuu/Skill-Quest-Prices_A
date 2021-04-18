@@ -2,7 +2,8 @@
     "skill" : "Thieving",
     "image" : "https://i.imgur.com/j9jtXRt.png",
     "checkpoints" : [
-        55
+        55,
+        80
     ],
     "prices" : [
         {   "start_level" : 1,
